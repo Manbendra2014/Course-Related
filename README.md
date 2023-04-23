@@ -1,2 +1,2 @@
-# COURSE_RELATED
+# Course-Related
 Related to different courses.
